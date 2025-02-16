@@ -1,0 +1,38 @@
+#main{
+    margin-top:40px;
+    text-align: bottom;
+
+}
+#dashboard{
+    margin-top:10px;
+}
+.body{
+    background-color: wheat;
+}
+#menu{
+    background-color: rgb(194, 191, 187);
+}
+#dashboard{
+    margin-top: 40px;
+}
+#button{
+    color: black;
+    text-decoration-color: white;
+}
+.account{
+    text-align: left;
+    margin-top: 20px;
+    margin: 20px;
+}
+.table{
+    margin-top: 20px;
+    margin: 10px;
+    background-color: beige;
+}
+.products{
+    margin-top: 20px;
+    margin: 10px;
+}
+.pp{
+    background-color: beige;
+}
